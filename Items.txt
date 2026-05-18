@@ -1,0 +1,5 @@
+1;12345;Safeguard;Soap;Germ Killer;10;10.0
+2;12345;Bioderm;Soap;Germ Free;7;10.0
+3;12345;Dove;Soap;Danlog kaayo;5;10.0
+4;9876;Palmolive;Shampoo;Silky Hair ;0;10.0
+5;9876;Head and Shoulder;Shampoo;Dandruff Free;10;20.0
